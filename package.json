@@ -1,0 +1,22 @@
+{
+  "name": "klikbca",
+  "version": "0.0.0",
+  "description": "toy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "klikbca",
+    "proof",
+    "of",
+    "concept"
+  ],
+  "author": "Leonardo Situmorang",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.34.0",
+    "jsdom": "^0.10.5"
+  }
+}
